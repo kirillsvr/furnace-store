@@ -1,0 +1,110 @@
+# Translation of Plugins - Breadcrumb Trail - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Breadcrumb Trail - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-29 10:03:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Breadcrumb Trail - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://justintadlock.com"
+msgstr "http://justintadlock.com"
+
+#. Author of the plugin/theme
+msgid "Justin Tadlock"
+msgstr "Justin Tadlock"
+
+#. Description of the plugin/theme
+msgid "A smart breadcrumb menu plugin embedded with <a href=\"http://schema.org\">Schema.org</a> microdata that can handle variations in site structure more accurately than any other breadcrumb plugin for WordPress. Insert into your theme with the <code>breadcrumb_trail()</code> template tag."
+msgstr "Умный плагин меню \"хлебных крошек\" с встроенной <a href=\"http://schema.org\">Schema.org</a> разметкой, которая может отслеживать структуру сайта более аккуратно чем другие плагины \"крошек\". Вставьте в вашу тему используя тег шаблона <code>breadcrumb_trail()</code>."
+
+#. Plugin URI of the plugin/theme
+msgid "http://themehybrid.com/plugins/breadcrumb-trail"
+msgstr "http://themehybrid.com/plugins/breadcrumb-trail"
+
+#. Plugin Name of the plugin/theme
+msgid "Breadcrumb Trail"
+msgstr "Breadcrumb Trail"
+
+#: inc/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/breadcrumbs.php:760 inc/breadcrumbs.php:1184
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumbs.php:759 inc/breadcrumbs.php:815 inc/breadcrumbs.php:1180
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumbs.php:758 inc/breadcrumbs.php:787 inc/breadcrumbs.php:814
+#: inc/breadcrumbs.php:841 inc/breadcrumbs.php:1176
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:256
+msgid "Week %s"
+msgstr "Неделя %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:254
+msgid "Minute %s"
+msgstr "Минута %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:252
+msgid "Page %s"
+msgstr "Страница %s"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: inc/breadcrumbs.php:250
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Результаты поиска для &#8220;%s&#8221;"
+
+#: inc/breadcrumbs.php:248
+msgid "Archives"
+msgstr "Архивы"
+
+#: inc/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr "404 Не найдено"
+
+#: inc/breadcrumbs.php:246
+msgid "Home"
+msgstr "Главная"
+
+#: inc/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Хлебные крошки"
+
+#: inc/breadcrumbs.php:244
+msgid "Browse:"
+msgstr "Просмотр:"
